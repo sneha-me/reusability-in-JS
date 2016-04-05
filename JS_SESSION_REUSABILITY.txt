@@ -11,6 +11,7 @@ Advantages:
 	- modular approach
 
 Disadvantage
+	- The bugs get replicated - If you reuse a buggy code :)
 
 Implementation:
 	- Following are the few appraches we can think of in reusing the code in JS.
